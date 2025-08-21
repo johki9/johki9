@@ -5,7 +5,7 @@
   <br/>
 
   I'm a Master's candidate in Computer Science from the University of Pennsylvania.  
-  Currently, I work at Amazon as a BIE.
+  Currently, I work at Amazon as a BI Engineer.
 
   <br/><br/>
 
