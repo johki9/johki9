@@ -1,7 +1,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/johnk726/johnk726.svg?cache=remove)
 
 
-I'm a Master\'s candidate in Computer Science from the University of Pennsylvania with a focus in AI/ML.
+I'm a Master\'s candidate in Computer Science from the University of Pennsylvania. Concentration in AI/ML.
 
 Previously @ Amazon, Tesla.
 
